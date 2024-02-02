@@ -9,4 +9,4 @@
 -Selenium WebDriver 4.11.0      
 -Junit Jupiter 5.7.0    
 -POM design pattern    
--log4j2 for logging purposes  
+-log4j for logging purposes  
